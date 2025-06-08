@@ -1,5 +1,5 @@
 🎨 Virtual Painter – Gesture-Based Drawing by Harsha Reddy
-Virtual Painter is a professional-grade digital painting application developed by Harsha Reddy, enabling users to draw using hand gestures or mouse input. With the power of OpenCV and MediaPipe, this project turns any webcam into an interactive, touch-free drawing canvas.
+Virtual Painter is a professional-grade digital painting application developed by Harsha Reddy. It enables users to draw using hand gestures or mouse input. Using OpenCV and MediaPipe, this project turns any webcam into an interactive, touch-free drawing canvas.
 
 If you find this project helpful or inspiring, please consider ⭐ starring the repository and supporting its growth!
 
@@ -10,7 +10,8 @@ Encourages further development and feature upgrades
 
 Supports open-source innovation for creative tech
 
-🔗 GitHub Repository – Click to Star
+🔗 GitHub Repository
+Click here to Star
 
 ✨ Features
 🧠 Gesture + Mouse Support: Draw with your fingers or the mouse
@@ -44,7 +45,7 @@ Python 3.6+
 
 Webcam (internal or external)
 
-Libraries Required:
+Libraries:
 
 OpenCV (cv2)
 
@@ -62,11 +63,13 @@ pip install opencv-python numpy mediapipe
 python virtual_painter.py
 🎮 How to Use
 Mouse Mode:
+
 Click buttons to select tools/colors
 
 Drag to draw, click-drag-release for shapes
 
 Gesture Mode:
+
 Move index finger to interact with UI buttons
 
 Pinch gesture to draw or shape
@@ -84,7 +87,7 @@ NumPy manages drawing canvas arrays
 
 deque is used for smoothing cursor motion
 
-Gestures are recognized using distance logic (e.g., pinch = index + middle finger close).
+Gestures are recognized using distance logic (e.g., pinch = index + middle finger close)
 
 🛠️ Customization
 🎨 Add colors in the colors array

@@ -27,7 +27,9 @@ If you find this project helpful or inspiring, please consider ⭐ starring the 
 - ⚡ **Smooth Experience**: Uses point averaging for stable line rendering
 
 ---
-![Preview](images/preview.png)
+## 🖼️ Preview
+
+![Preview](videos/preview.png)
 
 ## 💻 System Requirements
 - Python 3.6+

@@ -29,7 +29,9 @@ If you find this project helpful or inspiring, please consider ⭐ starring the 
 ---
 ## 🖼️ Preview
 
-![Preview](videos/preview.png)
+| ![Preview 1](videos/preview.png) | ![Preview 2](videos/preview1.png) |
+|:-------------------------------:|:--------------------------------:|
+| Preview Image 1                 | Preview Image 2                  |
 
 ## 💻 System Requirements
 - Python 3.6+
